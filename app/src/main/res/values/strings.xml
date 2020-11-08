@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Asah Otak</string>
+    <string name="about">Tentang</string>
+    <string name="loading">Tunggu...</string>
+    <string name="network_not_available">Jaringan tidak tersedia, silahkan hubungkan ke jaringan terlebih dahulu</string>
+    <string name="network_call_failed">Oops! ada masalah jaringan ke server. Silahkan mulai ulang.</string>
+    <string name="about_text">"Who Am I ?"</string>
+    <string name="congratulations_text">"Selamat anda menyelesaikannya dalam : "</string>
+    <string name="moves">Langkah :</string>
+    <string name="correct">Benar:</string>
+    <string name="guess_position_of">Posisi ke </string>
+    <string name="play_again">Mulai Lagi</string>
+    <string name="see_all_results">Lihat Hasil</string>
+    <string name="no_results_found">Tidak ada hasil yang ditemukan !!!</string>
+    <string name="my_games">Asah Otak</string>
+    <string name="game_starts_in_countdown_of">Permainan Mulai dalam</string>
+    <string name="guess">Guess</string>
+</resources>
